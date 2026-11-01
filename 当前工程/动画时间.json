@@ -1,0 +1,58 @@
+[
+  {
+    "tube": 1,
+    "start": 76,
+    "stop": 146,
+    "steps": 71,
+    "start_seconds": 3.8000000000000003,
+    "stop_seconds": 7.300000000000001
+  },
+  {
+    "tube": 3,
+    "start": 79,
+    "stop": 149,
+    "steps": 74,
+    "start_seconds": 3.95,
+    "stop_seconds": 7.45
+  },
+  {
+    "tube": 4,
+    "start": 82,
+    "stop": 152,
+    "steps": 74,
+    "start_seconds": 4.1000000000000005,
+    "stop_seconds": 7.6000000000000005
+  },
+  {
+    "tube": 5,
+    "start": 85,
+    "stop": 155,
+    "steps": 71,
+    "start_seconds": 4.25,
+    "stop_seconds": 7.75
+  },
+  {
+    "tube": 6,
+    "start": 88,
+    "stop": 158,
+    "steps": 66,
+    "start_seconds": 4.4,
+    "stop_seconds": 7.9
+  },
+  {
+    "tube": 7,
+    "start": 91,
+    "stop": 161,
+    "steps": 70,
+    "start_seconds": 4.55,
+    "stop_seconds": 8.05
+  },
+  {
+    "tube": 8,
+    "start": 94,
+    "stop": 164,
+    "steps": 68,
+    "start_seconds": 4.7,
+    "stop_seconds": 8.4
+  }
+]

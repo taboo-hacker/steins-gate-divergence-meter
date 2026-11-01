@@ -1,0 +1,4 @@
+*.blend binary
+*.png binary
+*.py text eol=lf
+*.md text eol=lf
